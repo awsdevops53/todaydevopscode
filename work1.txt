@@ -2,3 +2,8 @@ commands
 coding
 java
 jening
+git add
+git clone
+git status
+git commit
+git checkout
